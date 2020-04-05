@@ -1,2 +1,0 @@
-# Bicycles
-Template about bicycles
