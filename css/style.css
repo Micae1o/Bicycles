@@ -269,7 +269,7 @@ body.lock {
     background-color: #4d4959;
     transition: all 0.2s linear;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
   }
   .menu__body.active {
@@ -279,6 +279,7 @@ body.lock {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 30px;
   }
   .menu__list li {
     padding: 0 0 45px 0;

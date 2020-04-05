@@ -18,7 +18,7 @@ let burgerMain = document.querySelector('.burger');
 let menu = document.querySelector('.menu__body');
 const body = document.body;
 
-let links = document.querySelectorAll('.header__link');
+let links = document.querySelectorAll('.menu__link');
 
 // Бургер меню
 burger.onclick = function () {

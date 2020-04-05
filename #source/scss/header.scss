@@ -174,7 +174,7 @@
                 transition: all 0.2s linear;
 
                 display: flex;
-                align-items: center;
+                align-items: flex-start;
                 justify-content: center;
 
                 &.active {
@@ -185,6 +185,9 @@
                 flex-direction: column;
                 justify-content: center;
                 align-items: center;
+
+                margin-top: 30px;
+
                 li {
                     padding: 0 0 45px 0;
 
