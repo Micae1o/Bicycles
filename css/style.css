@@ -560,6 +560,7 @@ body.lock {
   background-color: #f7f7f7;
 }
 .swiper-slide {
+  width: 100%;
   text-align: center;
   padding: 120px 0 175px 0;
 }
